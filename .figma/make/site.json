@@ -1,0 +1,10 @@
+{
+  "description": "Engage in environmental education through interactive minigames, missions, and rewards that promote eco-friendly habits and sustainability awareness.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
